@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuanboli41-wq.github.io/film/sitemap.xml
